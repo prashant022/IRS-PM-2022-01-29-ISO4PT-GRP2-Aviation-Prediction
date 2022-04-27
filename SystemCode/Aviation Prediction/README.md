@@ -48,7 +48,6 @@ pip install -r requirements.txt
 ├── aviation_cf_rating.py
 ├── requirements.txt
 ```
-
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
