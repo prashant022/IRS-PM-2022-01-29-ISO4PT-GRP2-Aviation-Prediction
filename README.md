@@ -1,14 +1,3 @@
-﻿### [ Practice Module ] Project Submission Template: Github Repository & Zip File
-
-**[ Naming Convention ]** CourseCode-StartDate-BatchCode-TeamName-ProjectName.zip
-
-* **[ MTech Thru-Train Group Project Naming Example ]**  
-
----
-
-### <<<<<<<<<<<<<<<<<<<< Start of Template >>>>>>>>>>>>>>>>>>>>
-
----
 
 ## SECTION 1 : PROJECT TITLE
 ## Aviation Prediction 
@@ -41,8 +30,8 @@
 
 ### [ 1 ] To run the system using 
 
-> ** git clone repository 
-> ** pip install -r requirement.txt
+> **git clone repository 
+> **pip install -r requirement.txt
 
 > **Go to URL using web browser**   http://127.0.0.1:5000
 
