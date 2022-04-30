@@ -21,9 +21,9 @@
 
 | Official Full Name        | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------------------|:-------------------------------:| :---------------------------| :-----|
-| Vikram Sankireddypally   | A1234567B | xxxxxxxxxxxx yyyyy  zzzz zzzzzz| A1234567B@gmail.com |
-| Prashanth                | A1234567C | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567C@outlook.com |
-| Pradeep                  | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
+| Vikram Sankireddypally   | A0249306A | Exploratory Data Analysis & Transformation, Modelling,HyperTuning,Collboation Filter,Flask, Integration,Documentation, Testing| A0249306A@outlook.com |
+| Prashant Nair                | A0249268N | |Exploratory Data Analysis & Transformation, Modelling,HyperTuning,Collboation Filter,Flask, Integration,Documentation, Testing| A0249268N@outlook.com |
+| Pradeep Janakiraman      | A0140188H | Exploratory Data Analysis & Transformation, Modelling,HyperTuning,Collboation Filter,Flask, Integration,Documentation, Testing| A0140188H@outlook.com |
 
 
 ---
