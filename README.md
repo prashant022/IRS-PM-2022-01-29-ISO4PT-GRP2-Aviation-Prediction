@@ -30,22 +30,24 @@
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
- 
+`Refer to  <Installation & User Guide> in videos at Github Folder: Videos`
+
 
 ---
 
-## SECTION 5 : USER GUIDE
+## SECTION 5 : PROJECT REPORT/ USER GUIDE
 
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
 ### [ 1 ] To run the system using 
 
- 
+> ** git clone repository 
+> ** pip install -r requirement.txt
 
 > **Go to URL using web browser**   http://127.0.0.1:5000
 
 ### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
+### Install additional necessary libraries. This application works in python 3 only.
 
  
 
