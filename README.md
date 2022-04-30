@@ -21,6 +21,11 @@
 
 `Refer to Technical journey and Promo videos at Github Folder: Videos`
 
+Technical Architecture Video:
+
+https://drive.google.com/file/d/15bDAtexdoA-4AZ4Al2cPPFUOOmNFMIq8/view?usp=sharing
+
+Promotional Video:
 
 ---
 
