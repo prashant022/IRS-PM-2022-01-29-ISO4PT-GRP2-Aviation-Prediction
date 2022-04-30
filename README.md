@@ -27,6 +27,8 @@ https://drive.google.com/file/d/15bDAtexdoA-4AZ4Al2cPPFUOOmNFMIq8/view?usp=shari
 
 Promotional Video:
 
+https://drive.google.com/file/d/1yej1o1oLQ0iwaID0FHwgbsprZCrC9Sur/view?usp=sharing
+
 ---
 
 ## SECTION 5 : PROJECT REPORT/ USER GUIDE
