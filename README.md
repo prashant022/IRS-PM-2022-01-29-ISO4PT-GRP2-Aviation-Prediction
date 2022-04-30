@@ -19,7 +19,7 @@
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-`Refer to  <Installation & User Guide> in videos at Github Folder: Videos`
+`Refer to Technical journey and Promo videos at Github Folder: Videos`
 
 
 ---
@@ -28,12 +28,13 @@
 
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
-### [ 1 ] To run the system using 
+### [ 1 ] To run the application Aviation Prediction
 
 > **git clone repository 
+
 > **pip install -r requirement.txt
 
-> **Go to URL using web browser**   http://127.0.0.1:5000
+>> > **Go to URL using web browser**   http://127.0.0.1:5000
 
 ### [ 2 ] To run the system in other/local machine:
 ### Install additional necessary libraries. This application works in python 3 only.
