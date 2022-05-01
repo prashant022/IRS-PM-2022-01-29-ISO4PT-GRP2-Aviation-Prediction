@@ -4,6 +4,12 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
+The aviation industry has been growing rapidly over the last few decades and the demand for air transport is forecasted to increase by an average of 4.3% over the next 20 years . This is not surprising, given that an increasing number of people are living in urban city areas. The UN predicts that by 2050, two-thirds of the world’s population will be living in cities. Given this rising airline passenger footprint, the aviation industry has become competitive, with every airline trying to offer the best packages. As a passenger, one of the key decisions we make iswith regards to price and comfort. We want the best possible flight for the cheapest possible
+price. However, we are often spoilt for choice.
+
+Normally, the process of booking a flight involves going online to one of several booking engines and finding a flight to our destination that seems reasonable in terms of price. However, we realised that often times we don’t have any benchmark regarding how cheap should flights be. 
+
+If there is a tool that informs us what the prices should be like when travelling between two places, we could then use it to judge whether the prices shown in the booking engines are inflated. This is the kind of tool that our team has attempted to build.
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -18,21 +24,10 @@
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-
-`Refer to Technical journey and Promo videos at Github Folder: Videos`
-
-Technical Architecture Video:
-https://www.youtube.com/watch?v=C6wgWhk-iK8
+<p align=“center”>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C6wgWhk-iK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
-https://drive.google.com/file/d/15bDAtexdoA-4AZ4Al2cPPFUOOmNFMIq8/view?usp=sharing
-
-Promotional Video:
-
-https://youtu.be/EPcw1kouPUo
-
-
-https://drive.google.com/file/d/1yej1o1oLQ0iwaID0FHwgbsprZCrC9Sur/view?usp=sharing
 
 ---
 
