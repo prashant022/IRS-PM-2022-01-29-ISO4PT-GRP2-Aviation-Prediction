@@ -24,6 +24,7 @@
 Technical Architecture Video:
 https://www.youtube.com/watch?v=C6wgWhk-iK8
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C6wgWhk-iK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 https://drive.google.com/file/d/15bDAtexdoA-4AZ4Al2cPPFUOOmNFMIq8/view?usp=sharing
 
